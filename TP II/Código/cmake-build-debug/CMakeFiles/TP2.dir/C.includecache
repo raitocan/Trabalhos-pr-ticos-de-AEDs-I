@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Athos/CLionProjects/Tp da Stella/Caixeiro.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
+C:/Users/Athos/CLionProjects/Tp da Stella/main.c
+Caixeiro.h
+C:/Users/Athos/CLionProjects/Tp da Stella/Caixeiro.h
+
