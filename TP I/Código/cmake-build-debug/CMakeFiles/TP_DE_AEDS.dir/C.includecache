@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Athos/CLionProjects/TP DE AEDS/item_matriz.h
+lista_de_voos.h
+C:/Users/Athos/CLionProjects/TP DE AEDS/lista_de_voos.h
+
+C:/Users/Athos/CLionProjects/TP DE AEDS/lista_de_voos.h
+voo.h
+C:/Users/Athos/CLionProjects/TP DE AEDS/voo.h
+
+C:/Users/Athos/CLionProjects/TP DE AEDS/main.c
+matriz_voos.h
+C:/Users/Athos/CLionProjects/TP DE AEDS/matriz_voos.h
+
+C:/Users/Athos/CLionProjects/TP DE AEDS/matriz_voos.h
+item_matriz.h
+C:/Users/Athos/CLionProjects/TP DE AEDS/item_matriz.h
+
+C:/Users/Athos/CLionProjects/TP DE AEDS/voo.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
